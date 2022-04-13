@@ -3,4 +3,4 @@ Hackerbase :Android project server
 
 Server 
 
-According to thre client，add more relative function.
+According to the client，add more relative function.
